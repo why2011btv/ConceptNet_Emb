@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-DATASET="FB-Toutanova"
+DATASET="ConceptNet"
 SETTINGS=$1
 
 SCRIPT_DIR=$(dirname $(readlink -f $0))
